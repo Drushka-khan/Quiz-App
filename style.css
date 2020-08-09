@@ -1,0 +1,18 @@
+.body{
+    display: inline-block;
+    background-image: url("images/color.jpg");
+    text-align: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fieldset{
+    background-color: rgb(230, 217, 217);
+    border-radius: 2em;
+    text-align: justify;
+}
+
+#result{
+    margin-left: 450px;
+    margin-top: 30px;
+}
